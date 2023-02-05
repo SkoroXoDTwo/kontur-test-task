@@ -1,0 +1,13 @@
+{
+  "name": "text-to-ascii-art",
+  "version": "1.0.0",
+  "description": "test task",
+  "main": "solution.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "@types/jest": "^26.0.20",
+    "jest": "^26.6.3"
+  }
+}
